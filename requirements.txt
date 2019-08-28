@@ -1,0 +1,16 @@
+jupyterlab
+unidecode
+requests
+seaborn
+flask
+h5py
+tqdm
+scipy
+numpy
+pandas
+matplotlib
+scikit-learn
+opencv-python==3.4
+tensorflow==2.0.0-rc0
+tensorflow_probability
+tensorflow-addons

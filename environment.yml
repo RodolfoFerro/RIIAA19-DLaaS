@@ -1,0 +1,24 @@
+name: DLaaS
+channels:
+  - defaults
+  - anaconda
+  - conda-forge
+dependencies:
+  - python>=3.7
+  - jupyterlab
+  - unidecode
+  - requests
+  - seaborn
+  - flask
+  - h5py
+  - tqdm
+  - scipy
+  - numpy
+  - opencv
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - pip
+  - pip:
+    - tensorflow==2.0.0-rc0
+    - tensorflow_probability
