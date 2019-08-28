@@ -4,9 +4,9 @@
 # Twitter: @FerroRodolfo
 #
 # ABOUT COPYING OR USING PARTIAL INFORMATION:
-# This script was originally created by Rodolfo Ferro, 
-# for his workshop at RIIAA 2.0. Any explicit usage of 
-# this script or its contents is granted according to 
+# This script was originally created by Rodolfo Ferro,
+# for his workshop at RIIAA 2.0. Any explicit usage of
+# this script or its contents is granted according to
 # the license provided and its conditions.
 # ===============================================================
 
