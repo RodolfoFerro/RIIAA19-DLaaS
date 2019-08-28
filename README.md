@@ -1,5 +1,9 @@
 ![DLaaS](media/banner.png)
 
+![GitHub last commit](https://img.shields.io/github/last-commit/RodolfoFerro/RIIAA19-DLaaS?style=for-the-badge) <br>
+![GitHub repo size](https://img.shields.io/github/repo-size/RodolfoFerro/RIIAA19-DLaaS?style=for-the-badge) <br>
+![GitHub](https://img.shields.io/github/license/RodolfoFerro/RIIAA19-DLaaS?style=for-the-badge)
+
 ## Contenido del taller
 
 El taller fue desarrollado exclusivamente para su uso durante la **Escuela de Verano de la RIIAA 2.0**, y debe estar autocontenido, lo que significa que con este documento explicativo debe bastar para poder seguir y desarrollar el contenido del taller.
