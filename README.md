@@ -59,7 +59,7 @@ Para tener la versión de Python 3.7+ (**añadido Python al PATH**) y todas las 
 conda env create -n riiaa19 -f environment.yml
 ```
 
-Cambia el nombre `riia19` por tu nombre favorito para el ambiente o puedes remover la bandera `-n riia19` para dejar el nombre default del ambiente (`DLaaS`).
+Cambia el nombre `riia19` por tu nombre favorito para el ambiente o puedes remover la bandera `-n riia19` para dejar el nombre default del ambiente (`DLaaS`).
 
 Para activar el ambiente que creaste, en una terminal ingresa el comando
 
