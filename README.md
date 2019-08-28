@@ -3,7 +3,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/RodolfoFerro/RIIAA19-DLaaS?style=for-the-badge) <br>
 ![GitHub repo size](https://img.shields.io/github/repo-size/RodolfoFerro/RIIAA19-DLaaS?style=for-the-badge) <br>
 ![GitHub](https://img.shields.io/github/license/RodolfoFerro/RIIAA19-DLaaS?style=for-the-badge) <br>
-![Slides](https://img.shields.io/static/v1?label=Slides&message=Google%20Slides&color=tomato&style=for-the-badge&url=https://docs.google.com/presentation/d/e/2PACX-1vQu3NcX5En0X4fd65-jziWHvPmkU1tUNQurw3lAgfcEHNwtmsaLg4zrE5AKwkYb0cshCXM0p55Is47p/pub?start=false&loop=false&delayms=3000)
+[![Slides](https://img.shields.io/static/v1?label=Slides&message=Google%20Slides&color=tomato&style=for-the-badge)](https://docs.google.com/presentation/d/e/2PACX-1vQu3NcX5En0X4fd65-jziWHvPmkU1tUNQurw3lAgfcEHNwtmsaLg4zrE5AKwkYb0cshCXM0p55Is47p/pub?start=false&loop=false&delayms=3000)
 
 ## Contenido del taller
 
