@@ -11,6 +11,6 @@ pandas
 matplotlib
 scikit-learn
 opencv-python==3.4
-tensorflow==2.0.0-rc0
+tensorflow==2.5.0rc0
 tensorflow_probability
 tensorflow-addons
